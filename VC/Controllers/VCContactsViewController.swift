@@ -6,16 +6,16 @@
 //
 
 import UIKit
+import SwiftUI
+import MobileCoreServices
 
 /// Controller to show and add Emergency Contacts
 class VCContactsViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         view.backgroundColor = .systemBackground
         title = "Emergency Contacts"
     }
-    
-
 }

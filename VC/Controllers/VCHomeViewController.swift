@@ -6,6 +6,8 @@
 //
 
 import UIKit
+import SwiftUI
+import MobileCoreServices
 
 /// Controller to show Home page
 final class VCHomeViewController: UIViewController {

@@ -6,6 +6,8 @@
 //
 
 import UIKit
+import SwiftUI
+import MobileCoreServices
 
 /// Controller to view and change app Settings
 final class VCSettingViewController: UIViewController {

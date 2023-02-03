@@ -6,6 +6,8 @@
 //
 
 import UIKit
+import SwiftUI
+import MobileCoreServices
 
 /// Controller to house tabs and root controllers
 final class VCTabBarController
