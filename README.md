@@ -1,3 +1,3 @@
-# Swift Vechicle Crash Detection App
+# Vehicle Collision Detection iOS App
 
-iOS app that calls emergency services and notifies emergency contacts upon a car accident. 
+An iOS app that calls emergency services and notifies emergency contacts upon a car accident. 
